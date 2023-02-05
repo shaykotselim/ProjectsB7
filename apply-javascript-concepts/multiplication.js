@@ -21,9 +21,12 @@
 // const totalFact = factorial(7);
 // console.log(totalFact)
 
-function print(a, b, c){
-    return a+2;
-    return a*b;
-    return b*c+a;
-  }
-  console.log(print(1,2,3));
+// function print(a, b, c){
+//     return a+2;
+//     return a*b;
+//     return b*c+a;
+//   }
+//   console.log(print(1,2,3));
+let ul = `<li>Programming<li>`; 
+ul +=  `<li>Hero<li>`; 
+console.log(ul);
