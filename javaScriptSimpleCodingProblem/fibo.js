@@ -15,7 +15,4 @@ for( let i = 2; i <= 14; i++){
 
 }
 // console.log(fibo);
-function add(a, b){
-    return a + b;
-  }
-  console.log(add("adam" + "eve"))
+
